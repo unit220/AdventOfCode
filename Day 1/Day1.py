@@ -3,7 +3,7 @@
 # Read input from file
 import sys
 
-file = open('input.txt','r')
+file = open('./Day 1/input.txt', 'r')
 newLines = file.read()
 stringContents = newLines.splitlines()
 #print(stringContents)
