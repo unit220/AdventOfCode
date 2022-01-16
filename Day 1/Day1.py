@@ -4,6 +4,7 @@
 import sys
 file = open('./Day 1/input.txt', 'r')
 newLines = file.read()
+file.close
 stringContents = newLines.splitlines()
 #print(stringContents)
 

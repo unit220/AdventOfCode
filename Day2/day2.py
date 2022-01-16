@@ -3,6 +3,7 @@
 # Read input from file
 file = open('./input.txt', 'r')
 lines = file.readlines()
+file.close
 # Get rid of new line
 cleanLines = []
 for element in lines:
