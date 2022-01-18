@@ -1,3 +1,5 @@
+# not my own code, follow link for source https://www.youtube.com/watch?v=zAjliaaIjIc
+
 from __future__ import annotations
 from typing import NamedTuple
 
